@@ -1,2 +1,3 @@
-# Personal-Projects-
-Projects based on my interests
+
+# Personal C Projects
+A collection of C programming algorithms and computational projects.
